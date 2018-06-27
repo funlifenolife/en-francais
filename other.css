@@ -1,0 +1,69 @@
+html {
+    height: 100%
+  }
+  body {
+    height: 100%
+  }
+  #subheader{
+    text-align: center;
+    font-family: Garamond;
+    font-size: 27px;
+    background: #FFBF81;
+    color: #77686C
+  }
+  #header {
+    text-align: center;
+    font-family: Garamond;
+    font-size: 40px;
+    background: #F9F9DF;
+    color: #F89283;  
+  }
+  #main {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    background: #F1ACA1
+  }
+  #side {
+    height: 100%;
+    width: 20%;
+    color: #FFBF81;
+    background: #F9F9DF
+  }
+  #content {
+    height: 100%;
+    width: 88%;
+    background: #000000
+  }
+  .list-group {
+    width: 100%;
+    display: flex;
+  }
+  #container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: space-around;
+  }
+  #container2 {
+    height: 100%;
+    width: 82%;
+      
+  }
+  #dress {
+    width: 100%;
+    margin: 0;
+   display: flex;
+    justify-content: center; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+   img {
+    height: 210px;
+    display: flex;
+    justify-content: center;
+     flex-wrap: wrap
+  }
+  
